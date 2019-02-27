@@ -2,4 +2,4 @@
 It's very common to come across SQL related questions when you interview for Data Analysis related positions. Here are some
 resources for us to fully prepare it:
 1. Reference:
-   - [SQL cookbook, 2nd edition](https://www.amazon.com/SQL-Cookbook-Solutions-Techniques-Developers/dp/0596009763/ref=asc_df_0596009763/?tag=hyprod-20&linkCode=df0&hvadid=266005469508&hvpos=1o1&hvnetw=g&hvrand=8133281811364611423&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060031&hvtargid=aud-836408683912:pla-459725142956&psc=1)
+   - [SQL pocket guide, 2nd edition](https://www.amazon.com/SQL-Pocket-Guide-Usage/dp/1449394094/ref=sr_1_3?hvadid=177339797981&hvdev=c&hvlocphy=9007733&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=11505112300220079575&hvtargid=kwd-447602225&keywords=sql+pocket+guide&qid=1551229073&s=gateway&sr=8-3&tag=googhydr-20)
