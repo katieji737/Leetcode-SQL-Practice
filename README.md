@@ -12,3 +12,13 @@ resources for us to fully prepare it:
       - [some SQL questions summary](https://byrony.github.io/summary-of-sql-questions-on-leetcode.html)
    - [Hackerrank](https://www.hackerrank.com/dashboard)
    - [Codewars](https://www.codewars.com/)
+
+## Programming
+
+## Statistics
+
+## Machine Learning
+
+## Data Visualization
+
+## Business Acumen
