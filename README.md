@@ -1,4 +1,5 @@
-# SQL-Practice-for-Data-Analysis
+# Nail the Data Analysis
+## SQL
 It's very common to come across SQL related questions when you interview for Data Analysis related positions. Here are some
 resources for us to fully prepare it:
 1. Reference:
