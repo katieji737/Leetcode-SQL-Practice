@@ -10,7 +10,7 @@ resources for us to fully prepare it:
 2. Practice
    - [Leetcode](https://leetcode.com/)
       - [some SQL questions summary-p1](https://byrony.github.io/summary-of-sql-questions-on-leetcode.html)
-      - [some SQL questions summary-p2](./sql/leetcode-sql-summary.txt)
+      - [some SQL questions summary-p2](sql/leetcode-sql-summary.txt)
    - [Hackerrank](https://www.hackerrank.com/dashboard)
    - [Codewars](https://www.codewars.com/)
 
