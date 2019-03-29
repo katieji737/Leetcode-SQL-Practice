@@ -1,4 +1,4 @@
-Easy:
+Easy-Hints:
 Q595Big Countries: Union method runs a little bit faster than Where...or... method.
 
 Q627Swap Salary: To dynamically set a value to a column, we can use UPDATE statement together when CASE...WHEN... flow control statement.
@@ -6,4 +6,18 @@ Q627Swap Salary: To dynamically set a value to a column, we can use UPDATE state
 Q620Not Boring Movies:  use the mod(id,2)=1 to determine the odd number; description matching: ... NOT LIKE '%boring%' or != 'boring'.
 
 Q182Duplicate emails: Use GROUP BY & Having method to find same email.
+
+Q596Classes more than 5 students: Use COUNT(DISTINCT ...) method since the problems notes that The students should not be counted duplicate in each course.
+
+Q197Rising Temperatures: Self join trick: get the result by self joining this table weather with itself and use this DATEDIFF() function.
+
+Q176Second Highest Salary: Limit 1 -> the highest; limit 1 offset 1 -> the second highest; Use IFNULL(Value,NULL) deal with null situations.
+
+Q196Delete Duplicate Emails: use self join and detect larger ids by comapring them.
+
+
+
+
+
+
 
